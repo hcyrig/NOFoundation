@@ -1,6 +1,6 @@
 //
-//  NOToolbarTitleView.swift
-//  NOToolbar
+//  NOFoundationTitleView.swift
+//  NOFoundation
 //
 //  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //

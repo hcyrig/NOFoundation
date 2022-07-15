@@ -1,13 +1,12 @@
 //
-//  NOToolbar.swift
-//  NOToolbar
+//  NOFoundation.swift
+//  NOFoundation
 //
 //  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //
 
 import AppKit
 
-public typealias NOToolbarItemHander = () -> Void
 public typealias NOToolbarMenuItemHandler = (NSToolbar, NSMenuItem) -> Void
 
 extension NSToolbar.Identifier {

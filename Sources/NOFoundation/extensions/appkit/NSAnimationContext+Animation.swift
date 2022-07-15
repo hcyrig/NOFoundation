@@ -13,8 +13,8 @@ public extension NSAnimationContext {
   
   static func defaultAnimation(duration: TimeInterval = animationDuration,
                                isImplicitAnimation: Bool = false,
-                               _ animation: @escaping () -> Void,
-                               completionHandler: (() -> Void)? = nil) {
+                               _ animation: @escaping VoidCallback,
+                               completionHandler: VoidCallback? = nil) {
     
     NSAnimationContext.runAnimationGroup({ context in
       

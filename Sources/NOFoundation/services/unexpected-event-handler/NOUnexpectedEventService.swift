@@ -1,7 +1,8 @@
 //
 //  NOUnexpectedEventService.swift
+//  NOFoundation
 //
-//  Created by hcyrig on 22.10.2021.
+//  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //
 
 import Foundation

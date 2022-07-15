@@ -1,8 +1,8 @@
 //
-//  NOToolbarSlideView.swift
-//  NOToolbar
+//  NOFoundationSlideView.swift
+//  NOFoundation
 //
-//  Created by hcyrig on 22.02.2022.
+//  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //
 
 import AppKit

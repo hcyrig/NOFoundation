@@ -8,5 +8,6 @@
 import AppKit
 
 open class FlippedClipView: NSClipView {
+  
   open override var isFlipped: Bool { return true }
 }

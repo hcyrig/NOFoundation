@@ -1,6 +1,6 @@
 //
 //  NSToolbar+Items.swift
-//  NOToolbar
+//  NOFoundation
 //
 //  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //

@@ -1,5 +1,5 @@
 //
-//  BackgroundView.swift
+//  NOBackgroundView.swift
 //  NOFoundation
 //
 //  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
@@ -8,7 +8,7 @@
 import AppKit
 
 @objc
-open class BackgroundView: NSView {
+open class NOBackgroundView: NSView {
   
   @IBInspectable public var lightColor: NSColor = .white
   @IBInspectable public var darkColor: NSColor = .black

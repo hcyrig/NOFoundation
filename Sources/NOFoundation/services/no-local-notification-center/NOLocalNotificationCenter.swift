@@ -1,8 +1,7 @@
 //
 //  NOLocalNotificationCenter.swift
-//  PicFindr
+//  NOFoundation
 //
-//  Created by hcyrig on 29.04.2022.
 //  Copyright © 2022 Kostiantyn Girych a.k.a "hcyrig". All rights reserved.
 //
 

@@ -9,8 +9,6 @@ import Foundation
 
 public final class QueueThrottling {
   
-  public typealias EmptyCallback = () -> Void
-  
   public enum TimeIntervals {
     
     public static let sec: TimeInterval = 1.0
@@ -25,7 +23,7 @@ public final class QueueThrottling {
     : 0
   }
   
-  public func throttle(block: @escaping EmptyCallback) {
+  public func throttle(block: @escaping VoidCallback) {
     workItem.cancel()
     workItem = DispatchWorkItem { block() }
     
